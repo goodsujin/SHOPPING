@@ -1,4 +1,5 @@
-![ERD 図面](./Shopping_erd.png)
+![ERD 図面](.<img width="1402" height="728" alt="image" src="https://github.com/user-attachments/assets/dc25437c-9825-4128-a36b-6feebba0f9ba" />
+)
 非会員注文とカートデータロジック考慮したイーコマース設計図案です。
 
 # 🛒 ECサイト データベース設計
